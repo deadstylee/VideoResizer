@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yatex\\source\\repos\\VideoResizer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47A2005E-23BD-B45A-C040-6742C5E256E1}|VideoResizer.csproj|c:\\users\\yatex\\source\\repos\\videoresizer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{47A2005E-23BD-B45A-C040-6742C5E256E1}|VideoResizer.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|VideoResizer||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yatex\\source\\repos\\VideoResizer\\VideoResizer.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VideoResizer.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A2005E-23BD-B45A-C040-6742C5E256E1}|VideoResizer.csproj|c:\\users\\yatex\\source\\repos\\videoresizer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A2005E-23BD-B45A-C040-6742C5E256E1}|VideoResizer.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VideoResizer.ico",
+              "DocumentMoniker": "C:\\Users\\yatex\\source\\repos\\VideoResizer\\VideoResizer.ico",
+              "RelativeDocumentMoniker": "VideoResizer.ico",
+              "ToolTip": "C:\\Users\\yatex\\source\\repos\\VideoResizer\\VideoResizer.ico",
+              "RelativeToolTip": "VideoResizer.ico",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2026-04-26T15:30:42.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VideoResizer",
+              "DocumentMoniker": "C:\\Users\\yatex\\source\\repos\\VideoResizer\\VideoResizer.csproj",
+              "RelativeDocumentMoniker": "VideoResizer.csproj",
+              "ToolTip": "C:\\Users\\yatex\\source\\repos\\VideoResizer\\VideoResizer.csproj*",
+              "RelativeToolTip": "VideoResizer.csproj*",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADxSURBVDhPY2AY8oCRgYGBYcaMGf\u002BnTJnC8OXLF3R5rKC8vJwhMzOTES6goKDw/9atW/9RVOEAt27d\u002Bq\u002Bjo4OqVkFBgSjNMICsnglZoulw43/Bibz/mw83whXoztX8j0yjAxQD\u002Bs/1MBwPP82w6tYKBgaopidfnjAITuT9/\u002BTLE5yGwJ0kOJEXQwFMDFkOpxcYGBgYbry4/h/d2TDN2FyAYkChYTGD5UozhjDVcAYGBgaGy8nXGWV4ZBje539mlOGRYbicfB0RdciA4ljg4eFhICUdIPMZGRgYGKZPn/6/s7MTWRwn4OHhYcjOzkZNiQMKAD4PYL\u002BEt7BLAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-04-26T15:19:37.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\yatex\\source\\repos\\VideoResizer\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\yatex\\source\\repos\\VideoResizer\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-26T15:17:13.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yatex\\source\\repos\\VideoResizer\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\yatex\\source\\repos\\VideoResizer\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAA8BAAAAAAAAAAAUwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T15:17:12.142Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
