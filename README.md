@@ -3,6 +3,10 @@
 <img src="preview.png"/>
 A simple WPF application for fast video resizing using FFmpeg.
 
+**
+
+P.S This is my first project don't judge me harshly
+
 ---
 
 ## ⚡ Features
@@ -62,6 +66,3 @@ Example command:
 ffmpeg -i input.mp4 -vf scale=1920:1080 -c:v libx264 -preset ultrafast output.mp4
 
 
-**
-
-P.S This is my first project don't judge me harshly
