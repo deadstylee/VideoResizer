@@ -3,9 +3,8 @@
 <img src="preview.png"/>
 A simple WPF application for fast video resizing using FFmpeg.
 
-**
 
-P.S This is my first project don't judge me harshly
+## P.S This is my first project don't judge me harshly
 
 ---
 
