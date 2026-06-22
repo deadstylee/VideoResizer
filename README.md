@@ -1,67 +1,49 @@
-# 🎬 VideoResizer
-
-<img src="preview.png"/>
-A simple WPF application for fast video resizing using FFmpeg.
-
-
-## P.S This is my first project don't judge me harshly
+🎬 VideoResizer
+<img src="preview.png" alt="Превью VideoResizer" />
+Простое WPF-приложение для быстрого изменения разрешения видео с помощью FFmpeg. 
+перетаскивайте файлы, формируйте очередь, задавайте разрешение и обрабатывайте быстро с прогрессом и предпросмотром.
 
 ---
-
-## ⚡ Features
-
-- Drag & Drop video support
-- Queue system for batch processing
-- Custom resolution settings
-- Built-in FFmpeg processing
-- Live progress bar
-- Video preview
-- Lightweight UI (WPF)
-
+⚡ Возможности
+•	Поддержка Drag & Drop
+•	Система очереди для пакетной обработки
+•	Пользовательские настройки разрешения
+•	Встроенное использование FFmpeg
+•	Индикатор прогресса в реальном времени
+•	Предпросмотр видео
+•	Лёгкий интерфейс на WPF
 ---
 
-## 🖥️ Requirements
-
-- Windows 10 / 11
-- .NET Framework 4.8 (or .NET 8 if migrated)
-- FFmpeg (included in project or placed next to exe)
-
+🖥 Требования
+•	Windows 10 / 11
+•	.NET Framework 4.8 (или .NET 8 при миграции)
+•	FFmpeg (включён в релиз или размещён рядом с exe)
 ---
 
-## 📦 Installation
-
-### Option 1 — Portable version
-1. Download `VideoResizer_64bit portable.exe`
-2. Run `VideoResizer_64bit portable.exe`
-
-### Option 2 — Manually
-1. Download `VideoResizer_64bit.zip`
-2. Extract zip file 
-3. Run VideoResizer.exe
-
+📦 Установка
+Вариант 1 — Портативная версия
+1.	Скачать VideoResizer_64bit_portable.exe
+2.	Запустить VideoResizer_64bit_portable.exe
+Вариант 2 — Ручная установка
+1.	Скачать VideoResizer_64bit.zip
+2.	Распаковать архив
+3.	Запустить VideoResizer.exe
 ---
 
-## 🚀 Usage
-
-1. Drag and drop a video into the app
-2. Or click the drop area to select a file
-3. Set desired resolution
-4. Click **START**
-5. Wait for processing
-
+🚀 Использование
+1.	Перетащите видео в окно приложения или кликните по области для выбора файла
+2.	Выберите нужное разрешение
+3.	Нажмите «START»
+4.	Дождитесь завершения обработки (файл помещается в очередь и обрабатывается последовательно)
 ---
 
-## ⚙️ How it works
+⚙️ Как это работает
+Приложение использует FFmpeg для изменения разрешения и кодирования:
+•	Масштабирует видео до выбранного разрешения
+•	Обрабатывает файлы из очереди
+•	По умолчанию заменяет/сохраняет выходной файл в указанную папку
 
-The app uses FFmpeg internally:
+Пример используемой команды:
 
-- Scales video to selected resolution
-- Processes files in queue
-- Replaces original file after processing
-
-Example command:
-
-```bash
 ffmpeg -i input.mp4 -vf scale=1920:1080 -c:v libx264 -preset ultrafast output.mp4
-
-
+---
